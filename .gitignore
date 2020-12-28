@@ -57,3 +57,7 @@ buck-out/
 
 # CocoaPods
 /ios/Pods/
+ios/Podfile.lock
+ios/assignment.xcodeproj/project.pbxproj
+.gitignore
+package-lock.json
